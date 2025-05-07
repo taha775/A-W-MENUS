@@ -49,7 +49,7 @@ export default function RootLayout({
         <ResponsiveNav />
         {children}
         <Footer />
-        <GoogleAnalytics gaId="G-XXXXXXXXXX" /> {/* Replace with your GA4 Measurement ID */}
+        <GoogleAnalytics gaId="G-R7JD126Z97" /> {/* Replace with your GA4 Measurement ID */}
       </body>
     </html>
   );
