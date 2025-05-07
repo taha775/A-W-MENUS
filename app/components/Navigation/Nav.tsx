@@ -26,6 +26,7 @@ const Nav = ({ openNav }: Props) => {
           <h1 className='text-[20px] sm:text-[30px] font-semibold'>
            A&W MENU
           </h1>
+          
         </div>
         
         {/* Nav Links */}

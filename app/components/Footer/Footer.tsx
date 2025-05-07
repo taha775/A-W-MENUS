@@ -16,7 +16,7 @@ const Footer = () => {
           </h1>
       </div>
       <p className='text-white text-opacity-60 mt-[0.4rem]'>
-      Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages.,
+      Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages. ,
       </p>
       <p className='mt-[1rem] text-white'>support@example.com</p>
       <p className='text-red-300 text-[19px] font-bold'>+(123) 2346 87375</p>

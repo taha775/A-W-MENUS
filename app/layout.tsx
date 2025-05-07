@@ -13,15 +13,15 @@ const barlow_Condensed = Barlow_Condensed({
 export const metadata: Metadata = {
   title: 'A&W Menus',
   description: 'Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages.',
-  metadataBase: new URL('https://www.awmenus.com'),
+  metadataBase: new URL('https://www.aandwmenu.com/'),
   openGraph: {
     title: 'A&W Menus',
     description: 'Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages.',
-    url: 'https://www.awmenus.com',
+    url: 'https://www.aandwmenu.com/',
     siteName: 'A&W Menus',
     images: [
       {
-        url: 'https://www.awmenus.com/og-image.jpg',
+        url: 'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXshjbE_dUZi8y70a0DZW8bU9tIQRBsvvIA&s',
         width: 800,
         height: 600,
         
@@ -34,7 +34,7 @@ export const metadata: Metadata = {
     card: 'summary_large_image',
     title: 'A&W Menus',
     description: 'Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages.',
-    images: ['https://www.awmenus.com/twitter-image.jpg'],
+    images: ['https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRPXshjbE_dUZi8y70a0DZW8bU9tIQRBsvvIA&s'],
   },
 };
 
