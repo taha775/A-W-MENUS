@@ -31,7 +31,7 @@ const Nav = ({ openNav }: Props) => {
         {/* Nav Links */}
         <ul className="hidden lg:flex items-center space-x-10">
           {NAV_LINKS.map((link) => (
-            <li key={link.key} className='text-[20px] font-medium hover:text-red-600'>
+            <li key={link.key} className=' font-medium text-[30px] hover:text-red-600'>
               <Link href={link.href}>
                 {link.label}
               </Link>
@@ -46,7 +46,7 @@ const Nav = ({ openNav }: Props) => {
               <BiCycling className='w-[1.3rem] h-[1.3rem] sm:w-[1.7rem] sm:h-[1.7rem]' />
             </span>
             <span className='font-bold'>
-              Order Now
+         
             </span>
           </button>
           <button className='sm:px-6 sm:py-3 px-4 py-2 hover:bg-green-700 transition-all duration-200 bg-orange-600 flex items-center rounded-md text-white'>

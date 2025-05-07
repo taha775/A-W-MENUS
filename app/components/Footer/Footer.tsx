@@ -16,7 +16,7 @@ const Footer = () => {
           </h1>
       </div>
       <p className='text-white text-opacity-60 mt-[0.4rem]'>
-       Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quia eos distinctio.
+      Explore our delicious A&W menu offerings, from classic burgers to refreshing beverages.',
       </p>
       <p className='mt-[1rem] text-white'>support@example.com</p>
       <p className='text-red-300 text-[19px] font-bold'>+(123) 2346 87375</p>
@@ -93,7 +93,7 @@ const Footer = () => {
     
     {/* copyright */}
     <p className='text-center text-white opacity-50 mt-[1.5rem]'>
-     Copyright © 2024 <span className='text-yellow-300'>Mohamed Saleh</span>.
+     Copyright © 2025 <span className='text-yellow-300'>A&W Menu</span>.
      All rights reserved.
     </p>
 
